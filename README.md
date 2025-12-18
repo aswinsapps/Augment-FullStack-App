@@ -1,1 +1,1 @@
-This is a fullstack app
+To run this app, use pytest
